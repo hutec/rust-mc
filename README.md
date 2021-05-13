@@ -7,6 +7,7 @@ this repository contains the Monte-Carlo simulations re-written in Rust.
 
 - [Estimating Pi](/src/pi.rs)
 - [Estimating the Euler number](/src/euler.rs)
+- [Example calculation for the birthday paradox](/src/birthday.rs)
 
 ## Running the code
 
